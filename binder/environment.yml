@@ -8,10 +8,8 @@ dependencies:
   - scipy
   - pillow
   - tensorflow
-  - pyopengl
   - matplotlib
   - scikit-learn
-  - bokeh
-  - rise
   - pip:
+    - pyopengl
     - git+https://github.com/4QuantOSS/lucid
