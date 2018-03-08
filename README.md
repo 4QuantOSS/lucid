@@ -1,12 +1,11 @@
 
 <img src="https://storage.googleapis.com/lucid-static/common/stickers/channels-visualizations.jpg" width="782"></img>
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/4QuantOSS/lucid/master)
-
 # Lucid
 
 <!--*DeepDream, but sane. Home of cats, dreams, and interpretable neural networks.*-->
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/4QuantOSS/lucid/master)
 [![PyPI](https://img.shields.io/pypi/status/Lucid.svg)]()
 ![Build status](https://travis-ci.org/tensorflow/lucid.svg?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/tensorflow/lucid/badge.svg?branch=master)](https://coveralls.io/github/tensorflow/lucid?branch=master)
