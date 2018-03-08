@@ -1,1 +1,4 @@
-sudo npm install -g svelte-cli@2.2.0
+mkdir $HOME/npm
+npm config set prefix $HOME/npm
+npm install -g svelte-cli@2.2.0
+export PATH=$PATH:$HOME/npm/bin
