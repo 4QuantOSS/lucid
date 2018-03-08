@@ -1,0 +1,17 @@
+name: lucid_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - scipy
+  - pillow
+  - tensorflow
+  - pyopengl
+  - matplotlib
+  - scikit-learn
+  - bokeh
+  - rise
+  - pip:
+    - git+https://github.com/4QuantOSS/lucid
